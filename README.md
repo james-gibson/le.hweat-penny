@@ -1,25 +1,10 @@
-# le.hweat-penny
+# le.hweat-penny (moved)
 
-The wheat penny pitch: a security trade-off is not a flag. It is a price in
-pennies and a cost in the business need the alternative removes.
+This repo was a duplicate of the canonical Hwheat Penny seed. The pitch is now
+a route on that site:
 
-Live: <https://james-gibson.github.io/le.hweat-penny/>
+- https://james-gibson.github.io/hweat-penny/#/pitch
+- https://github.com/james-gibson/hweat-penny (`src/pages/Pitch.tsx`)
 
-## The deck
-
-Nine slides, one idea: a risk has an actionable alternative, the alternative
-costs pennies to verify, and it costs a named business need to adopt. The critic
-quotes both and does not collapse them.
-
-## Source
-
-The draft and the long form live in the kb vault:
-
-- `secure/cert-renewal/wheat-penny-pitch.md`
-- `secure/cert-renewal/README.md` — the actionability/visibility/trade-off register
-- `scripts/lab/penny.py`, `scripts/lab/WITNESS.md` — the penny model
-
-## Publish
-
-The site is static (`site/`), deployed by `.github/workflows/deploy.yml` to
-GitHub Pages on every push to `main`.
+The site here redirects. The repo is kept only for the history of the short-lived
+duplicate; it can be archived or deleted.

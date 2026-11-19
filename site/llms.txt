@@ -1,17 +1,8 @@
-# le.hweat-penny
+# le.hweat-penny (moved)
 
-> A security trade-off is not a flag. It is a price in pennies and a cost in the business need the alternative removes.
+This site was a duplicate of the canonical Hwheat Penny seed.
 
-The pitch, in nine slides:
+The pitch now lives at:
+https://james-gibson.github.io/hweat-penny/#/pitch
 
-1. A vulnerability with no patch is a trade-off, not an acceptance.
-2. A penny is one verified rotation — one answer to one isotope.
-3. The register: risk, actionable alternative, business need it counters, owner/revisit.
-4. Two currencies: the proof in pennies and the need in the business.
-5. The witness: a local, deterministic posture loop.
-6. The worked example: CVE-2026-123633 on bookworm.
-7. The rule: a spectrum, not a flag.
-8. The close: a wheat penny is still a penny in any plane.
-
-Source: the kb vault at `secure/cert-renewal/wheat-penny-pitch.md`.
-Penny model: `scripts/lab/penny.py`, `scripts/lab/WITNESS.md`, `scripts/lab/rotation.py`.
+Canonical source: https://github.com/james-gibson/hweat-penny
